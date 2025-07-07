@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Aquisição de dados
-df = pd.read_excel('report-consolidado.xlsx')
+df = pd.read_excel('data/report-consolidado.xlsx')
 
 # 700 linhas, 13 colunas
 df.shape  
